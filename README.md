@@ -1,6 +1,8 @@
 # UAM-Universidade-aps-POTA
 APS feita na matéria de Pesquisas, ordenações e técnicas de armazenamento (POTA) na Universidade Anhembi Morumbi
 
+![result.gif](https://github.com/Gttz/UAM-Universidade-aps-POTA/blob/master/pota.gif)
+
 <h2 align='center'>Instruções</h2>
 
 ### Dependências
