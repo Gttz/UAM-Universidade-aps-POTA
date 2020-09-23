@@ -16,7 +16,8 @@ APS feita na matéria de Pesquisas, ordenações e técnicas de armazenamento (P
 ### Execução
 Executar com Python o arquivo uam.universidade.aps.pota.py
 ```python3 universidade.aps.pota.py```  
-<h2 align='center'>Feito com</h2> 
+<h2 align='center'>Feito com</h2>
+
 Linguagem de programação: *Python 3*  
 Interface gráfica: *PyQt 5*  
 Gráficos: *Matplotlib* 
